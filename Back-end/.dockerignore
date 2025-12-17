@@ -1,0 +1,7 @@
+# Ignore target build output and VCS
+/target
+.git
+.gitignore
+.DS_Store
+.vscode
+.idea

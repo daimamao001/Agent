@@ -1,0 +1,23 @@
+# Ignore dependencies and build outputs
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store
+
+# Build output
+/dist
+/.vite
+vite-cache
+
+# VCS and editor
+.git
+.gitignore
+.DS_Store
+*.swp
+.idea
+.vscode
+
+# Tests and local
+coverage
+**/*.local.*
