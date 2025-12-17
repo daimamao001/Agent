@@ -1,6 +1,5 @@
-# Agent Studio Lite
 
-轻量级 Agent 工作流管理系统，支持任务配置、执行与监控，并提供聊天式交互界面。
+# 轻量级 Chat 聊天式交互界面。
 
 ## 技术栈
 - 后端: Java (Spring 生态)
